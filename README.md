@@ -39,3 +39,13 @@ I am a Software Developer passionate about building robust systems that turn raw
 ![Vite](https://img.shields.io/badge/Vite-8a2be2?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
+
+## 🖥️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F7C52B?style=for-the-badge&logo=firebase&logoColor=black)
+
+--- 
+
