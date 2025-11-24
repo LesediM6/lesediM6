@@ -57,6 +57,7 @@ I am a Software Developer passionate about building robust systems that turn raw
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F7C52B?style=for-the-badge&logo=firebase&logoColor=black)
+![REST](https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=data-transfer&logoColor=white)
 
 --- 
 
