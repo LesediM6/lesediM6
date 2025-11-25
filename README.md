@@ -89,6 +89,12 @@ I am a Software Developer passionate about building robust systems that turn raw
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LesediM6&theme=dracula)](https://git.io/streak-stats)
 
 <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LesediM6&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesediM6&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
 </div>
