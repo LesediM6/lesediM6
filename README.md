@@ -1,5 +1,7 @@
 # Hi, I'm Lesedi Mphachake! 👋
-
+<p align="center">
+  <img src="./introduction_banner.png" alt="LesediM6 Introduction Banner" width="100%" />
+</p>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=LesediM6&label=Profile%20views&color=0e75b6&style=flat-square" alt="LesediM6" />
 </p>
