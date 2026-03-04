@@ -48,21 +48,23 @@ I am currently undergoing an intensive Data Analytics program at **CAPACITI**, b
 
 ---
 
-## 🏆 Featured Projects
-<p align="center">
-  <a href="https://github.com/LesediM6/FNB-Fraud-Sentinel-Pipeline">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesediM6&repo=FNB-Fraud-Sentinel-Pipeline&theme=radical" />
-  </a>
-  <a href="https://github.com/LesediM6/Retail-Customer-Intelligence">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesediM6&repo=Retail-Customer-Intelligence&theme=radical" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/LesediM6/lesedi-portfolio-main">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesediM6&repo=lesedi-portfolio-main&theme=radical" />
-  </a>
-</p>
+## 🏆 Featured Projects
+
+### 🛡️ [FNB Fraud Sentinel Pipeline](https://github.com/LesediM6/FNB-Fraud-Sentinel-Pipeline)
+![Fraud Pipeline](https://img.shields.io/badge/Project-Fraud_Sentinel_Pipeline-006064?style=for-the-badge&logo=python&logoColor=white)
+> **Data Engineering & Security:** A robust data pipeline designed to detect and flag fraudulent transactions in real-time. Built to ensure data integrity for banking systems.
+
+### 🛒 [Retail Customer Intelligence](https://github.com/LesediM6/Retail-Customer-Intelligence)
+![Retail Intel](https://img.shields.io/badge/Project-Retail_Customer_Intelligence-2E7D32?style=for-the-badge&logo=pandas&logoColor=white)
+> **Market Analysis:** Advanced analytics platform focusing on customer behavior and purchase patterns to drive retail decision-making through data-driven insights.
+
+### 💻 [Personal Portfolio](https://github.com/LesediM6/lesedi-portfolio-main)
+![Portfolio](https://img.shields.io/badge/Site-Personal_Portfolio-4527A0?style=for-the-badge&logo=vercel&logoColor=white)
+> **Web Development:** My professional landing page and project showcase, built with modern web technologies and hosted on Vercel.
+
+---
 
 ---
 
