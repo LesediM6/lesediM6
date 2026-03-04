@@ -68,8 +68,8 @@ I am currently undergoing an intensive Data Analytics program at **CAPACITI**, b
 
 ## 🤝 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
 </p>
 
 ---
