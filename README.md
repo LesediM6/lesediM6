@@ -8,7 +8,7 @@ I am a **Software Developer** passionate about building robust systems that turn
 
  **I’m currently exploring**: Python scripts to validate data integrity before loading into Data Warehouses and Machine Learning models.
 - **I’m currently learning**: Cloud systems like AWS, Azure, and Advanced SQL.
-- ⚙️ **Passionate about**: Building automated ETL pipelines to scrape, clean, and load data from public APIs.
+- **Passionate about**: Building automated ETL pipelines to scrape, clean, and load data from public APIs.
 
 ---
 
