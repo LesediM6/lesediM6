@@ -1,4 +1,4 @@
-# Hi, I'm Lesedi Mphachake! 👋
+# Hi, I'm Lesedi Mphachake! 
 <p align="center">
   <img src="./introduction_banner.png" alt="LesediM6 Introduction Banner" width="100%" />
 </p>
